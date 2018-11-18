@@ -1,0 +1,51 @@
+{
+  "name": "pruebacell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+{
+  "name": "@alu0100693737/pruebacell",
+  "version": "1.0.5",
+  "description": "Pruebas. Cells",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-MII-CA-1819/oop-ale-ivan.git"
+  },
+  "keywords": [
+    "oop",
+    "javascript"
+  ],
+  "author": "Ivan Garcia",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/node": "^7.0.0",
+    "babel-cli": "^6.26.0",
+    "chai": "^4.2.0",
+    "codacy-coverage": "^3.1.0",
+    "coveralls": "^3.0.2",
+    "gulp": "3.9.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-mocha": "^6.0.0",
+    "gulp-shell": "*",
+    "gulp-util": "*",
+    "mocha": "^5.2.0",
+    "mocha-lcov-reporter": "^1.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ULL-MII-CA-1819/oop-ale-ivan/issues"
+  },
+  "homepage": "https://github.com/ULL-MII-CA-1819/oop-ale-ivan#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "@alu0100693737/oop-ale-ivan": "^1.0.5",
+    "@alu0100693737/colorcellplugin": "^1.0.5",
+  }
+}
