@@ -1,15 +1,4 @@
 {
-  "name": "pruebacell",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
-}
-{
   "name": "@alu0100693737/pruebacell",
   "version": "1.0.5",
   "description": "Pruebas. Cells",
@@ -42,10 +31,10 @@
   "bugs": {
     "url": "https://github.com/ULL-MII-CA-1819/oop-ale-ivan/issues"
   },
-  "homepage": "https://github.com/ULL-MII-CA-1819/oop-ale-ivan#readme",
   "dependencies": {
-    "chalk": "^2.4.1",
-    "@alu0100693737/oop-ale-ivan": "^1.0.5",
     "@alu0100693737/colorcellplugin": "^1.0.5",
-  }
+    "@alu0100693737/oop-ale-ivan": "^1.0.5",
+    "chalk": "^2.4.1"
+  },
+  "homepage": "https://github.com/ULL-MII-CA-1819/oop-ale-ivan#readme"
 }

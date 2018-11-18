@@ -1,8 +1,9 @@
-const TextCell = require("../src/textcell");
-const UnderlinedCell = require("../src/underlinedcell");
-const RTextCell = require("../src/rtextcell");
-const StretchCell = require("../src/stretchcell");
-const DataTable = require("../src/Tabla.js");
+const TextCell = require("../node_modules/@alu0100693737/oop-ale-ivan/src/textcell");
+const UnderlinedCell = require("../node_modules/@alu0100693737/oop-ale-ivan/src/underlinedcell");
+const RTextCell = require("../node_modules/@alu0100693737/oop-ale-ivan/src/rtextcell");
+const StretchCell = require("../node_modules/@alu0100693737/oop-ale-ivan/src/stretchcell");
+const DataTable = require("../node_modules/@alu0100693737/oop-ale-ivan/src/Tabla.js");
+//const ColorCell = require("../node_modules/@alu0100693737/colorcellplugin/colorCell.js");
 const input = require("../inputs/input.json");
 const assert = require("assert");
 
